@@ -1,0 +1,21 @@
+{
+  "name": "lc-ssg-saber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "saber",
+    "build": "saber build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "github-markdown-css": "^4.0.0",
+    "nprogress": "^0.2.0",
+    "prismjs": "^1.21.0",
+    "saber": "^0.11.7",
+    "saber-plugin-prismjs": "^0.2.4",
+    "saber-plugin-query-posts": "^0.4.6"
+  }
+}
